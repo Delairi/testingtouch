@@ -2,7 +2,7 @@ import{j as d,s,R as u,a}from"./vendor.97a5dbce.js";const f=function(){const n=d
 display:flex;
 justify-content:center;
 align-items:center;
-height:100vh;
+height:50vh;
 background:#91c8d057;
 `,m=s.h1`
 
